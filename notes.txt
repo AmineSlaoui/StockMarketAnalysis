@@ -1,0 +1,14 @@
+yfinance
+-----------------------
+
+    Range of market data on stocks, bonds, crypto
+    Offer market news, reports
+
+    Highly refined data -> Intervals range from 1 min to 3 months
+
+    Ticker: Unique combination of letters/numbers that represents a stock
+
+Methods:
+    - download: download historical data of tickers
+    - ticker: access ticker data
+    - history: get historical data

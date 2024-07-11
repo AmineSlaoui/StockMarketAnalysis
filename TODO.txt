@@ -1,0 +1,29 @@
+#TODO
+
+
+# Necessary resources + tools
+
+- Yahoo finance library X
+- Panda for data manipulation X
+- Numpy for numerical operations X
+- Seaborn for data visualization
+- Scikit-learn for machine learning algo
+- Backtrader library for backtesting
+- Requests for sending HTTP request X
+- Multitasking converts Python methods into asynchronous, non-blocking methods X
+
+
+# Task
+
+1- Install yfinance and other libraries
+2- Collect data
+3- Clean data
+4- Visualize data
+5- Create technical indicators
+6- Build model (split into training and testing)
+7- Use ML to predict stock (Linear Regression or Long Short Term Memory Network)
+8- Evaluate model performance
+9- Backtest model 
+10- Optimize 
+
+
